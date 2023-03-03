@@ -7,9 +7,9 @@ module.exports = {
   theme: {
     extend: {
       colors:{
-      darkblue:'#37284d',
-      purply:'#7c5eff',
-      pinky:'#F0888F'
+      darkblue:'#2d325b',
+      // purply:'#7c5eff',
+      pinky:'#f9c5d1'
       }
     },
   },
