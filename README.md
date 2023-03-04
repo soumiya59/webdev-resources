@@ -1,4 +1,4 @@
-# [Webdev](https://serene-chimera-a0a343.netlify.app/)
+# [Webdev](https://webdev-resources-blush.vercel.app/)
 
 ### Demo: [webdev-resources-blush.vercel.app](https://webdev-resources-blush.vercel.app/)
 
