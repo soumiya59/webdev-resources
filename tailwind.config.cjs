@@ -8,8 +8,13 @@ module.exports = {
     extend: {
       colors:{
       darkblue:'#2d325b',
-      // purply:'#7c5eff',
-      pinky:'#f9c5d1'
+      pinky:'#f9c5d1',
+      darkpinky:'#f66d6d',
+      beigy:'#F1EFE9',
+      lightbeigy:'#f9f8f5',
+      silvery:'#ece9f1',
+      dirty:'#a3a6a9',
+      darkdirty:'#2F2A1E',
       }
     },
   },
