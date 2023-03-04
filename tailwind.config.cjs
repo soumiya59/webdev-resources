@@ -13,6 +13,7 @@ module.exports = {
       beigy:'#F1EFE9',
       lightbeigy:'#f9f8f5',
       silvery:'#ece9f1',
+      darksilvery:'#e1e1e9',
       dirty:'#a3a6a9',
       darkdirty:'#2F2A1E',
       }

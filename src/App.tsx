@@ -13,7 +13,7 @@ function App() {
   return (
     <div className="text-darkdirty">
       {/* navbar */}
-      <div className="bg-silvery fixed overflow-auto h-screen border-r-4">
+      <div className="bg-darksilvery fixed overflow-auto h-screen border-r-4">
       <Navbar />
       </div>
       {/* sections */}
