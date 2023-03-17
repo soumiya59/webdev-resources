@@ -19,7 +19,7 @@ interface props{
 export default function Section({data,header,id}:props){
     return(
         <SECTION id={id}>
-          <div className="flex items-venter mb-5 md:ml-2">
+          <div className="flex items-center mb-5 md:ml-2">
             <img src="tag.png" alt="" className="pr-2 w-10 h-8 "/>
             <p className="text-2xl font-extrabold">{header}</p>
           </div>

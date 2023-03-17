@@ -29,14 +29,14 @@ export default function Navbar(){
                 icons
             </a></P>
             <P>
-                <img src="nav/inspo.png" alt="" className="w-9 h-6 pr-3" />
-                <a href="#inspiration">
-                inspiration
-            </a></P>
-            <P>
-                <img src="nav/tail2.png" alt="" className="w-9 h-6 pr-3" />
+                <img src="nav/tail2.png" alt="" className="w-9 h-5 pr-3" />
                 <a href="#tailwind">
                 tailwindCss
+            </a></P>
+            <P>
+                <img src="nav/inspo.png" alt="" className="w-10 h-7 pr-3" />
+                <a href="#inspiration">
+                inspiration
             </a></P>
             </div>
         </div>

@@ -26,7 +26,7 @@ function App() {
       </div>
       {/* footer */}
       <div className="md:pl-72 pb-10 border-t-2 pt-5 bg-beigy ">
-         ©2023 WebDev design by soumiya59 
+         ©2023 WebDev by <a target="_blank" href="https://github.com/soumiya59">soumiya59</a>  
       </div>
     </div>
   )

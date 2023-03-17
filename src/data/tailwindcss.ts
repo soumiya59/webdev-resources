@@ -30,5 +30,20 @@ export default [
     "name":"Tailwind Elements" ,
     "desc":"open-source UI Kit" ,
     "url":"https://tailwind-elements.com/",
+    },{
+    "logo":"tail/flowbite.png" ,
+    "name":"Flowbite" ,
+    "desc":"open-source library of over 450+ UI components" ,
+    "url":"https://flowbite.com/",
+    },{
+    "logo":"tail/tailgrids.png" ,
+    "name":"TailGrids" ,
+    "desc":"Ready to use Tailwind CSS UI Kit Components" ,
+    "url":"https://tailgrids.com/",
+    },{
+    "logo":"tail/hyperui.png" ,
+    "name":"HyperUI" ,
+    "desc":"Free Open Source Tailwind CSS Components" ,
+    "url":"https://www.hyperui.dev/",
     }
 ]
